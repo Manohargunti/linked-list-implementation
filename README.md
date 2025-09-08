@@ -20,4 +20,4 @@ COMPALATION ERROS  WHILE CODING
 ## Execution proof
 Below are screenshots showing that the program complied and executed successfull :
 ### Screenshot 1: Code and Program Output  
-![Execution screenshot 1](MAN3.jpg)
+![Execution screenshot 1](man3.jpg)
